@@ -1,0 +1,6 @@
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_4\DLL\Task5\bin\Debug\Task5.dll
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_4\DLL\Task5\bin\Debug\Task5.pdb
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_4\DLL\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_4\DLL\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_4\DLL\Task5\obj\Debug\Task5.dll
+C:\Users\dmytro\Desktop\Git\WinForms_Homework_4\DLL\Task5\obj\Debug\Task5.pdb
